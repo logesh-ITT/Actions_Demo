@@ -1,0 +1,6 @@
+{
+    "PageObjects": "C:/Cypress/cypress/integration/PageObjects",
+    "TestCase": "C:/Cypress/cypress/integration/TestCase",
+    "baseUrl": "https://gadgets.ndtv.com/",
+    "pageLoadTimeout": 60000
+}
